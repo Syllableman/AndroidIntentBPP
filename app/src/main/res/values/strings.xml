@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="welcome_my_child">Welcome my child!</string>
+    <string name="back_to_main">Back to Main</string>
+    <string name="welcome_user">Welcome User!</string>
+    <string name="start">Start</string>
+</resources>
